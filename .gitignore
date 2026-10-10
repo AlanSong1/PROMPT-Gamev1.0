@@ -1,0 +1,16 @@
+# 构建与缓存
+.build/
+__pycache__/
+*.py[cod]
+*.spec
+
+# 可执行文件由 Release 附件提供，不入库（避免仓库体积膨胀）
+/PROMPT.exe
+
+# 本地开发与测试脚本（依赖本机 Python 环境与绝对路径）
+dev/
+
+# 编辑器 / 工作区元数据
+.workbuddy/
+.vscode/
+.idea/
