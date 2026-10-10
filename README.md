@@ -36,6 +36,10 @@
 
 <img src="docs/screenshots/04_level_template.png" width="620" alt="套用写作模板">
 
+**关卡页（困难模式）** — 同样的任务，只给维度和权重，不给任何提示
+
+<img src="docs/screenshots/05_level_hard.png" width="620" alt="关卡页 困难模式">
+
 **评分页** — 逐维度给分 + 具体点评，右上角标明这次由谁评分
 
 <img src="docs/screenshots/06_result_ai.png" width="620" alt="评分页">
@@ -43,6 +47,10 @@
 **对照参考写法** — 你自己的提示词和参考写法并排放，对照着看漏了什么
 
 <img src="docs/screenshots/07_model_dialog.png" width="620" alt="对照参考写法">
+
+**结算页** — 整轮成绩单，可返回选关接着打没挑战的关卡
+
+<img src="docs/screenshots/08_end.png" width="620" alt="结算页">
 
 ---
 
